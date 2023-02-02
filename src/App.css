@@ -1,0 +1,25 @@
+.App {
+  width: 100%;
+  height: auto;
+}
+.App>table{
+  width: 70%;
+  height: auto;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.App>table,th,td{
+  border: 1px solid grey;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+}
+
+.secondHead{
+  height: 60px;
+}
+
+select{
+  width: 50px;
+}
